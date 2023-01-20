@@ -24,7 +24,7 @@ Your script needs to run in a different container (that it's dockerfile you will
 ## Some Tips
 
  - I would suggest taking the time to read carefully about Docker and Containers.
- - If you do not have a unix based system on hand, you can try and install WSl. In anyway, you are not expected to work directly on Windows.
- - None of the files provided require a change for this exercise to be completed, even the Dockerfile. However, simply running the image may not be enough. 
+ - If you do not have a unix based system on hand, you can try and install WSL. Regardless, you are not expected to work directly on Windows.
+ - None of the files provided require a change for this exercise to be completed, not even the Dockerfile. However, simply running the image may not be enough. 
  - Using docker-compose isn't necessary, but is recommended, and would serve for a much better solution.
  - Just completing this exercise isn't enough, you will also be required to show an understanding of what you had written.
