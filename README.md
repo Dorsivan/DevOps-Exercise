@@ -10,7 +10,7 @@ Alongside this script we have the associated Dockerfile, which describes the ima
 
 ### Step A
 
-You need to write a simple script in a programming language of your choice that call our application through `localhost:8080` and print out the titles of the objects gathered.
+You need to write a simple script in a programming language of your choice that calls our application through `localhost:8080` and prints out the titles of the objects gathered.
 
 ### Step B
 
